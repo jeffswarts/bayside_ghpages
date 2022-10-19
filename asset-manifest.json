@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bayside_ghpages/static/css/main.4fd93d22.css",
-    "main.js": "/bayside_ghpages/static/js/main.c1faa8b0.js",
+    "main.css": "/bayside_ghpages/static/css/main.d7ae763f.css",
+    "main.js": "/bayside_ghpages/static/js/main.9d07be13.js",
     "static/media/bayside-drums.wav": "/bayside_ghpages/static/media/bayside-drums.7c93416ff7da39b174d8.wav",
     "static/media/surf.png": "/bayside_ghpages/static/media/surf.171867f38077250b7608.png",
     "static/media/bar.png": "/bayside_ghpages/static/media/bar.8e32542daa0c154c221f.png",
@@ -21,10 +21,15 @@
     "static/media/shingo-shimzu.png": "/bayside_ghpages/static/media/shingo-shimzu.8261500d4f50ceb6ad63.png",
     "static/media/matt-goldman.png": "/bayside_ghpages/static/media/matt-goldman.678f6a19b8f189149759.png",
     "static/media/instagram.png": "/bayside_ghpages/static/media/instagram.e5fa71d9703562070719.png",
+    "static/media/ea-sports.png": "/bayside_ghpages/static/media/ea-sports.f6e9940cb9f74a43fca9.png",
     "static/media/BebasKai.ttf": "/bayside_ghpages/static/media/BebasKai.6d02e3d2de8c0e16c47e.ttf",
     "static/media/randi-sanchez.png": "/bayside_ghpages/static/media/randi-sanchez.79c6a17fd045dc035d8a.png",
+    "static/media/nike.png": "/bayside_ghpages/static/media/nike.0742acb0cd838100bdba.png",
     "static/media/enrique-soto.png": "/bayside_ghpages/static/media/enrique-soto.4e461be39c37ebaa70f1.png",
-    "static/media/companies.png": "/bayside_ghpages/static/media/companies.c97e99580148741da43f.png",
+    "static/media/canada-goose.png": "/bayside_ghpages/static/media/canada-goose.395b81e82e5336344409.png",
+    "static/media/netflix.png": "/bayside_ghpages/static/media/netflix.2320507b311e5b9ac9fb.png",
+    "static/media/vayner-media.png": "/bayside_ghpages/static/media/vayner-media.840ed4682e88fa711aa3.png",
+    "static/media/hbo.png": "/bayside_ghpages/static/media/hbo.abd4a4736c2148b9eae4.png",
     "static/media/jolin-ras.png": "/bayside_ghpages/static/media/jolin-ras.ca307d69d13d4a7e8751.png",
     "static/media/twitter.svg": "/bayside_ghpages/static/media/twitter.dd28a7c8d5550f1292218701cbd8d5e2.svg",
     "index.html": "/bayside_ghpages/index.html",
@@ -34,7 +39,7 @@
     "static/media/menu.svg": "/bayside_ghpages/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.4fd93d22.css",
-    "static/js/main.c1faa8b0.js"
+    "static/css/main.d7ae763f.css",
+    "static/js/main.9d07be13.js"
   ]
 }
