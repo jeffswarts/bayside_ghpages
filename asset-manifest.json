@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/bayside_ghpages/static/css/main.d30c9f7a.css",
-    "main.js": "/bayside_ghpages/static/js/main.000d1dc6.js",
+    "main.css": "/bayside_ghpages/static/css/main.8969d610.css",
+    "main.js": "/bayside_ghpages/static/js/main.e38c8676.js",
     "static/media/bayside-drums.wav": "/bayside_ghpages/static/media/bayside-drums.7c93416ff7da39b174d8.wav",
     "static/media/surf.png": "/bayside_ghpages/static/media/surf.171867f38077250b7608.png",
     "static/media/bar.png": "/bayside_ghpages/static/media/bar.8e32542daa0c154c221f.png",
-    "static/media/toolbox-background.png": "/bayside_ghpages/static/media/toolbox-background.5f794f8008a74460960f.png",
+    "static/media/toolbox-background.png": "/bayside_ghpages/static/media/toolbox-background.dc4c069ac96a114e715d.png",
     "static/media/toolbox.png": "/bayside_ghpages/static/media/toolbox.598fbd7a8bbdacbaec94.png",
     "static/media/splash.png": "/bayside_ghpages/static/media/splash.517416cb34f8b5d6625e.png",
+    "static/media/matt-goldman.png": "/bayside_ghpages/static/media/matt-goldman.b6d796e7249f5bdd9578.png",
     "static/media/passport.png": "/bayside_ghpages/static/media/passport.9a470e521b6b59407ca0.png",
     "static/media/team-bar-poloroid.png": "/bayside_ghpages/static/media/team-bar-poloroid.c46e46fd886605afabc9.png",
     "static/media/team-truck-poloroid.png": "/bayside_ghpages/static/media/team-truck-poloroid.410e80d1e3c5dd70fe4e.png",
@@ -20,7 +21,6 @@
     "static/media/roy-ward.png": "/bayside_ghpages/static/media/roy-ward.8f09ace186011f3c7d58.png",
     "static/media/BebasNeue-Regular.ttf": "/bayside_ghpages/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/shingo-shimzu.png": "/bayside_ghpages/static/media/shingo-shimzu.8261500d4f50ceb6ad63.png",
-    "static/media/matt-goldman.png": "/bayside_ghpages/static/media/matt-goldman.678f6a19b8f189149759.png",
     "static/media/instagram.png": "/bayside_ghpages/static/media/instagram.e5fa71d9703562070719.png",
     "static/media/ea-sports.png": "/bayside_ghpages/static/media/ea-sports.f6e9940cb9f74a43fca9.png",
     "static/media/BebasKai.ttf": "/bayside_ghpages/static/media/BebasKai.6d02e3d2de8c0e16c47e.ttf",
@@ -40,7 +40,7 @@
     "static/media/menu.svg": "/bayside_ghpages/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.d30c9f7a.css",
-    "static/js/main.000d1dc6.js"
+    "static/css/main.8969d610.css",
+    "static/js/main.e38c8676.js"
   ]
 }
