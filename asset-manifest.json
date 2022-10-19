@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff05c82c.css",
+    "main.js": "/static/js/main.7f7e3832.js",
+    "static/media/bayside-drums.wav": "/static/media/bayside-drums.7c93416ff7da39b174d8.wav",
+    "static/media/surf.png": "/static/media/surf.171867f38077250b7608.png",
+    "static/media/bar.png": "/static/media/bar.8e32542daa0c154c221f.png",
+    "static/media/toolbox.png": "/static/media/toolbox.598fbd7a8bbdacbaec94.png",
+    "static/media/splash.png": "/static/media/splash.517416cb34f8b5d6625e.png",
+    "static/media/passport.png": "/static/media/passport.9a470e521b6b59407ca0.png",
+    "static/media/team-bar-poloroid.png": "/static/media/team-bar-poloroid.c46e46fd886605afabc9.png",
+    "static/media/team-truck-poloroid.png": "/static/media/team-truck-poloroid.410e80d1e3c5dd70fe4e.png",
+    "static/media/logo.svg": "/static/media/logo.a547bc61feb28767ae638de1e5fc9d61.svg",
+    "static/media/character.png": "/static/media/character.7c22ea0720cc2f97ddaf.png",
+    "static/media/Archivo-Bold.ttf": "/static/media/Archivo-Bold.aa2b11844ae9503b698b.ttf",
+    "static/media/Archivo-Regular.ttf": "/static/media/Archivo-Regular.966d9d4d45a09d520c4f.ttf",
+    "static/media/brenden-lee.png": "/static/media/brenden-lee.44b2fa5271735213114c.png",
+    "static/media/leen-taher.png": "/static/media/leen-taher.27f8d918a57dc4cd9273.png",
+    "static/media/roy-ward.png": "/static/media/roy-ward.8f09ace186011f3c7d58.png",
+    "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/shingo-shimzu.png": "/static/media/shingo-shimzu.8261500d4f50ceb6ad63.png",
+    "static/media/matt-goldman.png": "/static/media/matt-goldman.678f6a19b8f189149759.png",
+    "static/media/instagram.png": "/static/media/instagram.e5fa71d9703562070719.png",
+    "static/media/BebasKai.ttf": "/static/media/BebasKai.6d02e3d2de8c0e16c47e.ttf",
+    "static/media/randi-sanchez.png": "/static/media/randi-sanchez.79c6a17fd045dc035d8a.png",
+    "static/media/enrique-soto.png": "/static/media/enrique-soto.4e461be39c37ebaa70f1.png",
+    "static/media/companies.png": "/static/media/companies.c97e99580148741da43f.png",
+    "static/media/jolin-ras.png": "/static/media/jolin-ras.ca307d69d13d4a7e8751.png",
+    "static/media/twitter.svg": "/static/media/twitter.dd28a7c8d5550f1292218701cbd8d5e2.svg",
+    "index.html": "/index.html",
+    "static/media/plus.svg": "/static/media/plus.87288fa14ceac891668db0fa58852c59.svg",
+    "static/media/x-icon.svg": "/static/media/x-icon.a95b2f519f228da7155585988929d5b3.svg",
+    "static/media/minus.svg": "/static/media/minus.36a4a3a863eaa372d15f8f5cab510a94.svg",
+    "static/media/menu.svg": "/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
+  },
+  "entrypoints": [
+    "static/css/main.ff05c82c.css",
+    "static/js/main.7f7e3832.js"
+  ]
+}
