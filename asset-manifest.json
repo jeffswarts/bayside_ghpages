@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bayside_ghpages/static/css/main.8e454ce1.css",
-    "main.js": "/bayside_ghpages/static/js/main.cec4f11a.js",
+    "main.css": "/bayside_ghpages/static/css/main.4fd93d22.css",
+    "main.js": "/bayside_ghpages/static/js/main.c1faa8b0.js",
     "static/media/bayside-drums.wav": "/bayside_ghpages/static/media/bayside-drums.7c93416ff7da39b174d8.wav",
     "static/media/surf.png": "/bayside_ghpages/static/media/surf.171867f38077250b7608.png",
     "static/media/bar.png": "/bayside_ghpages/static/media/bar.8e32542daa0c154c221f.png",
@@ -34,7 +34,7 @@
     "static/media/menu.svg": "/bayside_ghpages/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.8e454ce1.css",
-    "static/js/main.cec4f11a.js"
+    "static/css/main.4fd93d22.css",
+    "static/js/main.c1faa8b0.js"
   ]
 }
