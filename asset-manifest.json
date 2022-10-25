@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.d94eaf74.css",
-    "main.js": "/static/js/main.b52832ad.js",
+    "main.css": "/static/css/main.6c8b96bd.css",
+    "main.js": "/static/js/main.0351cb9a.js",
+    "static/js/563.4586e059.chunk.js": "/static/js/563.4586e059.chunk.js",
+    "static/js/19.3093017a.chunk.js": "/static/js/19.3093017a.chunk.js",
     "static/media/bayside-drums.wav": "/static/media/bayside-drums.7c93416ff7da39b174d8.wav",
     "static/media/surf.png": "/static/media/surf.171867f38077250b7608.png",
     "static/media/bar.png": "/static/media/bar.8e32542daa0c154c221f.png",
@@ -9,7 +11,6 @@
     "static/media/toolbox-background.png": "/static/media/toolbox-background.dc4c069ac96a114e715d.png",
     "static/media/toolbox.png": "/static/media/toolbox.598fbd7a8bbdacbaec94.png",
     "static/media/splash.png": "/static/media/splash.517416cb34f8b5d6625e.png",
-    "static/media/jeff.png": "/static/media/jeff.a7b5f1ffc6d99c9ae502.png",
     "static/media/matt-goldman.png": "/static/media/matt-goldman.b6d796e7249f5bdd9578.png",
     "static/media/passport.png": "/static/media/passport.9a470e521b6b59407ca0.png",
     "static/media/team-bar-poloroid.png": "/static/media/team-bar-poloroid.c46e46fd886605afabc9.png",
@@ -30,6 +31,7 @@
     "static/media/vayner-media.png": "/static/media/vayner-media.840ed4682e88fa711aa3.png",
     "static/media/footer-text.svg": "/static/media/footer-text.3be4376f2db61d6ba213ae70d9d8018e.svg",
     "static/media/hbo.png": "/static/media/hbo.abd4a4736c2148b9eae4.png",
+    "static/media/malkfleursby.jpg": "/static/media/malkfleursby.bb0934d0e793d9050f0b.jpg",
     "static/media/jolin-ras.png": "/static/media/jolin-ras.ca307d69d13d4a7e8751.png",
     "index.html": "/index.html",
     "static/media/twitter.svg": "/static/media/twitter.dd28a7c8d5550f1292218701cbd8d5e2.svg",
@@ -40,7 +42,7 @@
     "static/media/menu.svg": "/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.d94eaf74.css",
-    "static/js/main.b52832ad.js"
+    "static/css/main.6c8b96bd.css",
+    "static/js/main.0351cb9a.js"
   ]
 }
