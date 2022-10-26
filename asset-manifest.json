@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c486c89b.css",
-    "main.js": "/static/js/main.f7e1bf2b.js",
+    "main.js": "/static/js/main.dfa8e085.js",
     "static/js/563.4586e059.chunk.js": "/static/js/563.4586e059.chunk.js",
     "static/js/299.7eeab733.chunk.js": "/static/js/299.7eeab733.chunk.js",
     "static/media/bayside-drums.wav": "/static/media/bayside-drums.7c93416ff7da39b174d8.wav",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.c486c89b.css",
-    "static/js/main.f7e1bf2b.js"
+    "static/js/main.dfa8e085.js"
   ]
 }
