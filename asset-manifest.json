@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.6b57ab01.css",
-    "main.js": "/static/js/main.e2f807b4.js",
+    "main.js": "/static/js/main.8486234c.js",
     "static/js/563.4586e059.chunk.js": "/static/js/563.4586e059.chunk.js",
     "static/js/19.7d186516.chunk.js": "/static/js/19.7d186516.chunk.js",
+    "static/media/malkfleursby.png": "/static/media/malkfleursby.ad99236184804ff688be.png",
     "static/media/bayside-drums.wav": "/static/media/bayside-drums.7c93416ff7da39b174d8.wav",
     "static/media/surf.png": "/static/media/surf.171867f38077250b7608.png",
     "static/media/bar.png": "/static/media/bar.8e32542daa0c154c221f.png",
@@ -31,7 +32,6 @@
     "static/media/vayner-media.png": "/static/media/vayner-media.840ed4682e88fa711aa3.png",
     "static/media/footer-text.svg": "/static/media/footer-text.3be4376f2db61d6ba213ae70d9d8018e.svg",
     "static/media/hbo.png": "/static/media/hbo.abd4a4736c2148b9eae4.png",
-    "static/media/malkfleursby.jpg": "/static/media/malkfleursby.bb0934d0e793d9050f0b.jpg",
     "static/media/jolin-ras.png": "/static/media/jolin-ras.ca307d69d13d4a7e8751.png",
     "index.html": "/index.html",
     "static/media/twitter.svg": "/static/media/twitter.dd28a7c8d5550f1292218701cbd8d5e2.svg",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.6b57ab01.css",
-    "static/js/main.e2f807b4.js"
+    "static/js/main.8486234c.js"
   ]
 }
