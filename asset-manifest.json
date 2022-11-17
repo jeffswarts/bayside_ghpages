@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1de9a340.css",
-    "main.js": "/static/js/main.3cfc7a6b.js",
+    "main.css": "/static/css/main.69229418.css",
+    "main.js": "/static/js/main.bc4e32a4.js",
     "static/js/704.ff215124.chunk.js": "/static/js/704.ff215124.chunk.js",
     "static/js/763.b850da5e.chunk.js": "/static/js/763.b850da5e.chunk.js",
     "static/media/malkfleursby.png": "/static/media/malkfleursby.ad99236184804ff688be.png",
@@ -51,7 +51,7 @@
     "static/media/menu.svg": "/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.1de9a340.css",
-    "static/js/main.3cfc7a6b.js"
+    "static/css/main.69229418.css",
+    "static/js/main.bc4e32a4.js"
   ]
 }
