@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1de9a340.css",
-    "main.js": "/static/js/main.c10e3566.js",
+    "main.js": "/static/js/main.3cfc7a6b.js",
     "static/js/704.ff215124.chunk.js": "/static/js/704.ff215124.chunk.js",
     "static/js/763.b850da5e.chunk.js": "/static/js/763.b850da5e.chunk.js",
     "static/media/malkfleursby.png": "/static/media/malkfleursby.ad99236184804ff688be.png",
@@ -52,6 +52,6 @@
   },
   "entrypoints": [
     "static/css/main.1de9a340.css",
-    "static/js/main.c10e3566.js"
+    "static/js/main.3cfc7a6b.js"
   ]
 }
