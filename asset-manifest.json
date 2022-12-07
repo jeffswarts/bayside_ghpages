@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.468660e4.css",
-    "main.js": "/static/js/main.9e42620d.js",
+    "main.css": "/static/css/main.6c10d852.css",
+    "main.js": "/static/js/main.d7d2a731.js",
     "static/js/704.ff215124.chunk.js": "/static/js/704.ff215124.chunk.js",
     "static/js/763.e99a4364.chunk.js": "/static/js/763.e99a4364.chunk.js",
     "static/media/malkfleursby.png": "/static/media/malkfleursby.ad99236184804ff688be.png",
@@ -23,7 +23,6 @@
     "static/media/logo.svg": "/static/media/logo.a547bc61feb28767ae638de1e5fc9d61.svg",
     "static/media/character.png": "/static/media/character.7c22ea0720cc2f97ddaf.png",
     "static/media/brenden-lee.png": "/static/media/brenden-lee.44b2fa5271735213114c.png",
-    "static/media/leen-taher.png": "/static/media/leen-taher.27f8d918a57dc4cd9273.png",
     "static/media/roy-ward.png": "/static/media/roy-ward.8f09ace186011f3c7d58.png",
     "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/profile-bg.png": "/static/media/profile-bg.290c009128a942e14b8d.png",
@@ -39,7 +38,6 @@
     "static/media/vayner-media.png": "/static/media/vayner-media.840ed4682e88fa711aa3.png",
     "static/media/footer-text.svg": "/static/media/footer-text.3be4376f2db61d6ba213ae70d9d8018e.svg",
     "static/media/hbo.png": "/static/media/hbo.abd4a4736c2148b9eae4.png",
-    "static/media/leen-nft.jpg": "/static/media/leen-nft.f5c604d8108cc6dfc1d6.jpg",
     "static/media/jolin-ras.png": "/static/media/jolin-ras.ca307d69d13d4a7e8751.png",
     "index.html": "/index.html",
     "static/media/twitter.svg": "/static/media/twitter.dd28a7c8d5550f1292218701cbd8d5e2.svg",
@@ -51,7 +49,7 @@
     "static/media/menu.svg": "/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.468660e4.css",
-    "static/js/main.9e42620d.js"
+    "static/css/main.6c10d852.css",
+    "static/js/main.d7d2a731.js"
   ]
 }
